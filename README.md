@@ -17,3 +17,5 @@ I developed this tool for my own needs and have verified the results against **S
 ### Support:
 If you find this tool useful, feel free to support the project:
 **TRX (TRC20):** `TMb8KBGHng2URvhQcgW4hmmnqTpi8Frges`
+
+![Booster Screenshot](screenshot.png)
